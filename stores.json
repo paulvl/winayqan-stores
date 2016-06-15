@@ -1,0 +1,93 @@
+{
+	"huanuco": [
+		{
+			"name": "Super Mix",
+			"address": "Jr. Tarapacá N° 550",
+			"point": {"lat": -9.9323833, "lng": -76.2443742}
+		},
+		{
+			"name": "Quivi Natura",
+			"address": "Jr. Crespo Castillo N° 622",
+			"point": {"lat": -9.9281363, "lng": -76.2389253}
+		},
+		{
+			"name": "Linderos Ecológicos",
+			"address": "Jr. Dos de Mayo N° 1296",
+			"point": {"lat": -9.9279249, "lng": -76.2392311}
+		},
+		{
+			"name": "Bienestar Integral",
+			"address": "Jr. Dámaso Beraún N° 853",
+			"point": {"lat": -9.9296396, "lng": -76.2384103}
+		},
+		{
+			"name": "Natur Center",
+			"address": "Jr. Abtao N° 785",
+			"point": {"lat": -9.9292569, "lng": -76.2415981}
+		},
+		{
+			"name": "Centro de Promoción Gobierno Regional",
+			"address": "Esquina Jr. 2 de mayo y Jr. Crespo Catillo",
+			"point": {"lat": -9.9276558, "lng": -76.2392056}
+		},
+		{
+			"name": "Nutri Natura",
+			"address": "Jr. Abato N°1008",
+			"point": {"lat": -9.9271670, "lng": -76.2400103}
+		},
+		{
+			"name": "Divisoria Trading",
+			"address": "Jr. 28 de Julio N°1231",
+			"point": {"lat": -9.9272529, "lng": -76.2375762}
+		},
+		{
+			"name": "Wayu",
+			"address": "Jr. Libertad N°629",
+			"point": {"lat": -9.9366059, "lng":-76.2461189}
+		}
+	],
+	"lima": [
+		{
+			"name": "La Chakra",
+			"address": "Av. Jose Pardo 620 Int. 20 (Sótano), Miraflores",
+			"point": {"lat": -12.1188996, "lng": -77.0353019}
+		},
+		{
+			"name": "Orgánica Perú Market",
+			"address": "Calle Alfonso Ugarte 354, Miraflores",
+			"point": {"lat": -12.1169836, "lng": -77.0266048}
+		},
+		{
+			"name": "Gatti",
+			"address": "Real Plaza Primavera 2do piso Tienda 200, San Borja",
+			"point": {"lat": -12.1115597, "lng": -77.0020162}
+		},
+		{
+			"name": "Tika Foods",
+			"address": "Av. Ernesto Diez Canseco 316, Miraflores",
+			"point": {"lat": -12.1224113, "lng": -77.0275280}
+		},
+		{
+			"name": "Bio Canastas",
+			"address": "Av. Ricardo Palma 606, Miraflores",
+			"point": {"lat": -12.1200328, "lng": -77.0241323}
+		},
+		{
+			"name": "Sundown Peru",
+			"address": "Ca. Alcanfores 350, Miraflores",
+			"point": {"lat": -12.1228729, "lng": -77.0278633}
+		}
+	],
+	"arequipa": [
+		{
+			"name": "Doorganic",
+			"address": "Jr. San José 101, Cercado",
+			"point": {"lat": -16.3977856, "lng": -71.5345949}
+		},
+		{
+			"name": "Doorganic",
+			"address": "Av. Trinida Morán H-20, Cayma",
+			"point": {"lat": -16.3917330, "lng": -71.5486929}
+		}
+	]
+}
