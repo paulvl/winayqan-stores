@@ -89,5 +89,12 @@
 			"address": "Av. Trinida Morán H-20, Cayma",
 			"point": {"lat": -16.3917330, "lng": -71.5486929}
 		}
+	],
+	"trujillo": [
+		{
+			"name": "Orgánica BioBodega",
+			"address": "Calle Bolivar N°194",
+			"point": {"lat": -8.1156070, "lng": -79.0294270}
+		}
 	]
 }
