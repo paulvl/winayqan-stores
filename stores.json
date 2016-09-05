@@ -44,6 +44,11 @@
 			"name": "Wayu",
 			"address": "Jr. Libertad N°629",
 			"point": {"lat": -9.9366059, "lng":-76.2461189}
+		},
+		{
+			"name": "Open Plaza Huánuco",
+			"address": "Jr. Dos de Mayo N° 125",
+			"point": {"lat": -9.9386461, "lng":-76.2473756}
 		}
 	],
 	"lima": [
@@ -75,6 +80,16 @@
 		{
 			"name": "Sundown Peru",
 			"address": "Ca. Alcanfores 350, Miraflores",
+			"point": {"lat": -12.1228729, "lng": -77.0278633}
+		},
+		{
+			"name": "Cosecha de Paraíso",
+			"address": "Calle José Galvez N° 210, Miraflores",
+			"point": {"lat": -12.1168656, "lng": -77.0271246}
+		},
+		{
+			"name": "Mellizos Tienda Saludable",
+			"address": "Av. Gonzales Prada N° 340, Miraflores",
 			"point": {"lat": -12.1228729, "lng": -77.0278633}
 		}
 	],
