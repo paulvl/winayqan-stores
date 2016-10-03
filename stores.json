@@ -85,12 +85,12 @@
 		{
 			"name": "Cosecha de Paraíso",
 			"address": "Calle José Galvez N° 210, Miraflores",
-			"point": {"lat": -12.1168656, "lng": -77.0271246}
+			"point": {"lat": -12.1223110, "lng": -77.0324220},
 		},
 		{
 			"name": "Mellizos Tienda Saludable",
 			"address": "Av. Gonzales Prada N° 340, Miraflores",
-			"point": {"lat": -12.1228729, "lng": -77.0278633}
+			"point": {"lat": -12.1168656, "lng": -77.0271246}
 		}
 	],
 	"arequipa": [
